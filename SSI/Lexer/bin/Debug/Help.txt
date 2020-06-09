@@ -22,7 +22,7 @@ lstloop(i)(listName){print({i})}  - Loops through a list referencing each as 'i'
 
 METHODS:
 method(plus)(a,b){a+=b} - (methodName)(methodParams){methodBody}
-do(a)(1,2) 
+call(a)(1,2) 
 
 DISPLAY:
 print(hello world)
