@@ -1,0 +1,7 @@
+var a = hello.world;
+split(test)(a)(.)
+
+lstloop(i)(test)
+{
+print({i})
+}

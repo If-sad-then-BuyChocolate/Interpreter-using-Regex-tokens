@@ -1,0 +1,7 @@
+C:\Users\Gaming\source\repos\Lexer\Lexer\bin\Debug\Lexer.exe.config
+C:\Users\Gaming\source\repos\Lexer\Lexer\bin\Debug\Lexer.exe
+C:\Users\Gaming\source\repos\Lexer\Lexer\bin\Debug\Lexer.pdb
+C:\Users\Gaming\source\repos\Lexer\Lexer\obj\Debug\Lexer.csprojAssemblyReference.cache
+C:\Users\Gaming\source\repos\Lexer\Lexer\obj\Debug\Lexer.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\source\repos\Lexer\Lexer\obj\Debug\Lexer.exe
+C:\Users\Gaming\source\repos\Lexer\Lexer\obj\Debug\Lexer.pdb

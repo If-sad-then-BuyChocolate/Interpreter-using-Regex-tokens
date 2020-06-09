@@ -1,0 +1,11 @@
+var l = 0;
+var r = 1;
+var c = 0;
+var amount = 30;
+loop(amount)
+{
+  calc(c){{l}+{r}}
+  var l = {r};
+  var r = {c};
+  print({r})
+}

@@ -1,0 +1,69 @@
+type your code inside the script.txt file and run the UDPL.exe to execute the code.
+
+
+VARIABLES:
+var a = hello world!;
+var a = 123;
+var a = input;
+var a = true;
+var a = false;
+var a = a;
+var a = [listName:0]
+list a = yello,mello,hello;
+
+LOGIC:
+if(a=1){#}
+while(a=1){#}
+ifelse(a=1){#1}{#2}
+
+LOOPS:
+loop(5){#}
+lstloop(i)(listName){print({i})}  - Loops through a list referencing each as 'i'
+
+METHODS:
+method(plus)(a,b){a+=b} - (methodName)(methodParams){methodBody}
+do(a)(1,2) 
+
+DISPLAY:
+print(hello world)
+print({VarName})
+print([ListName:0])
+print(var a = {a})
+print(list lst value at index 0 = [lst:0])
+
+INCREMENT/DECREMENT:
+a++
+a--
+a+=5 
+a-=a
+a*=a
+a/=a
+
+MATH:
+calc(varName){1+1*3} - basic calculator, solves between '{}' and stores result in 'varName'
+
+OTHER:
+wait(miliseconds)
+clear; - Clears the console screen.
+join(leftVar,rightVar) - joins left and right variables or and stores to left.
+input - a keyword used to gather data from a users input.
+console - enables the user to type code inside the console screen.
+goto(fileName)(Line)
+boolswap(VarName) - swaps a bool value from true -> false and false -> true.
+slice(VarName)(SkipAmount) - 'skips characters' for given amount, negative starts from the end positive from the begining.
+char(VarName)(Index) - gets the character from a value at given index.
+
+UDLR:
+> -
+< -
+g -
+d -
+s -
+i -
+p -
+v(#) -
+
+FILES:
+runfile(Filename) - runs a txt file next to UDPL.exe.
+delfile(Filename)
+appendfile(Filename){data} - appends all between '{}' to Filename also (@ = newline)
