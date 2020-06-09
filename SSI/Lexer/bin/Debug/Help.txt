@@ -53,15 +53,6 @@ boolswap(VarName) - swaps a bool value from true -> false and false -> true.
 slice(VarName)(SkipAmount) - 'skips characters' for given amount, negative starts from the end positive from the begining.
 char(VarName)(Index) - gets the character from a value at given index.
 
-UDLR:
-> -
-< -
-g -
-d -
-s -
-i -
-p -
-v(#) -
 
 FILES:
 runfile(Filename) - runs a txt file next to UDPL.exe.
